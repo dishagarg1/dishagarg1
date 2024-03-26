@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Disha Garg
 
-After years of being a devoted mom and homemaker, I have embarked on an exiting journey in tech world, by learning Data Science with Python. Join me in this fascinating journey
+After years of being a devoted mom and homemaker, I've embarked on an exciting journey in tech world, by learning Data Science with Python. Join me in this fascinating journey
 
 # My Learning Journey 📚💻
 
@@ -10,7 +10,7 @@ After years of being a devoted mom and homemaker, I have embarked on an exiting 
 
 # Featured Projects 🚀
 
-In Progress ( stay tune for more updates)
+In Progress ( stay tuned for more updates)
 
 # Let's Connect! 🤝
 
